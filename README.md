@@ -9,10 +9,10 @@ Given a list of cities connected by flights (with fares), the program:
 - Outputs the *total fare, **maximum fare in the path, and the **actual route* taken.
   
 --> These are the SubPaths of this Graph with Fares given below:-
-A --(500)--> B
-A --(300)--> C
-B --(200)--> C
-B --(600)--> D
-C --(400)--> D
-D --(100)--> E
-C --(800)--> E
+A --(500)--> B ;
+A --(300)--> C ;
+B --(200)--> C ;
+B --(600)--> D ;
+C --(400)--> D ;
+D --(100)--> E ;
+C --(800)--> E .
